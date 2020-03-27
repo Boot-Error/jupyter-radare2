@@ -1,3 +1,10 @@
+# Fork of jupyter-radare2
+
+Adding functionalities to the kernel
+
+- [X] spawning shell commands
+- [ ] using rarun2 and rabin2
+
 # jupyter-radare2
 
 [![GitHub tag](https://img.shields.io/github/tag/guedou/jupyter-radare2.svg)](https://github.com/guedou/r2m2/releases)

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: jupyter-radare2
+Version: 0.1
+Summary: A Jupyter radare2 kernel
+Home-page: https://github.com/guedou/jupyter_radare2
+Author: Guillaume Valadon
+Author-email: guillaume@valadon.net
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

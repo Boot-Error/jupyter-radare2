@@ -1,0 +1,7 @@
+README.md
+radare2.py
+setup.py
+jupyter_radare2.egg-info/PKG-INFO
+jupyter_radare2.egg-info/SOURCES.txt
+jupyter_radare2.egg-info/dependency_links.txt
+jupyter_radare2.egg-info/top_level.txt
